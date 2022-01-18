@@ -1,0 +1,177 @@
+
+
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://static.fanpage.it/wp-content/uploads/sites/22/2019/05/fruitsandveg.jpg');
+}
+</style>
+</head>
+<center><h1 style="color:red;">HERBALIFE OF NUTRITION</h1>
+<img src="https://www.ayurvedasg.com/wp-content/uploads/2020/06/HERBS-AND-SPICES-USED-IN-AYURVEDA-min-1024x745.jpg" width="20%">
+<center><h1 style="color:red;">LOGIN GO TO THE VISTE</h1>
+<h3 style="color:red;">Email Id: <input type="text"></text></h3><br>
+<br>
+<h3 style="color:red;"> Password  : <input type="password"></text></h3>
+<br><br>
+<button type="button">sumbit</button>
+</center>
+
+<br>
+<hr>
+<button type="button">LOGIN</button>
+<button type="button">REGISTRATION</button>
+<button type="button">TIPS OF HEALTH</button>
+<button type="button">NUTRITION TYPES</button>
+</center>
+<hr>
+<center><h1 style="color:red;">Why nutrition is important for health?</h1>
+<img src="https://i1.wp.com/aurayoga.co.uk/wp-content/uploads/2019/03/nutrition_wellbeing..jpg?fit=1024%2C512&ssl=1"></center>
+<p style="color:white;">we recommend eating mostly vegetables, fruit, and whole grains, healthy fats, and healthy proteins, It’s also important to stay active and maintain a healthy weight.</p>
+<hr>
+<h1 style="color:red;">Study of nutrients in food, how the body uses them, and the relationship between diet, health, and disease.</h1>
+<center><img src="https://th.bing.com/th/id/OIP.JctSmmOnFT05Xi9RTgLuhQHaLH?pid=ImgDet&rs=1" width=25%>
+<img src="https://thumbs.dreamstime.com/z/woman-food-body-thin-thick-harm-use-vector-illustration-woman-food-body-thin-thick-vector-illustration-131154854.jpg" width=25%>
+<img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/7505/bf926b9c-4cbf-422d-9ad0-c287ac6b17d8.jpg" width=25%>
+</center>
+<p style="color:white;">To understand how nutrients affect the human body.
+Nutrition also focuses on how people can use dietary choices to reduce the risk of disease, what happens if a person has too much or too little of a nutrient, Proteins, carbohydrates, fat, vitamins, minerals, fiber, and water are all nutrients. If people do not have the right balance of nutrients in their diet, their risk of developing certain health conditions increases.
+This article will explain the different nutrients a person needs and why.</p>
+<hr>
+<center><h1 style="color:white;"></h1>
+<img src="https://www.ediblegroup.in/wp-content/uploads/2016/01/images-14.jpg" width="25%" hight="25%"></center>
+
+<h1 style="color:red;">Sugar and starch are types of carbohydrates.</h1>
+
+<p style="color:white;"><b>Sugars</b> are simple carbs. The body quickly breaks down and absorbs sugars and processed starch. They can provide rapid energy, but they do not leave a person feeling full. They can also cause a spike in blood sugar levels. Frequent sugar spikes increase the risk of type 2 diabetes and its complications.<br>
+<br>
+<b>Fiber</b> is also a carbohydrate. The body breaks down some types of fiber and uses them for energ; others are metabolized by gut bacteria, while other types pass through the body.<br>
+
+<br>
+<hr>
+<center><h1 style="color:red;">5 Benefits of Eating Healthy</h1>
+<img src="data:image/jpeg;base64,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" width="20%"></center>
+<b><ul>
+<li style="color:white;">Weight Loss.</li>
+<li style="color:white;">Low toxic level in blood.</li>
+<li style="color:white;">Healthy Heart..</li>
+<li style="color:white;">Good immunity.</li>
+<li style="color:white;">clear skin.</li>
+
+</ul></b>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+background-color: #dddddd;
+border: 1px solid #dddddd;
+text-align: left;
+padding: 9px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<table>
+<tr>
+<th>VITAMIN</th>
+<th>EFFECT OF TOO LITTLE</th>
+<th>SOURCES</th>
+</tr>
+  <tr>
+    <td>Vitamin C</td>
+    <td>Scurvy, including fatigue, skin rash, gum inflammation, poor wound healing</td>
+    
+<td>Citrus fruits, berries, red and green peppers, kiwi fruit, broccoli, baked potatoes, fortified juices.</td>
+  </tr>
+  <tr>
+    <td>Vitamin D</td>
+    <td>Poor bone formation and weak bones</td>
+    
+<td>Sunlight exposure plus dietary sources: cod liver oil, oily fish, dairy products, fortified juices</td>
+  </tr>
+  <tr>
+    <td>Vitamin E</td>
+    <td>Peripheral neuropathy, retinopathy, reduced immune response</td>
+    <td>Wheatgerm, nuts, seeds, sunflower and safflower oil, spinach</td>
+  </tr>
+  <tr>
+    <td>Vitamin K</td>
+    <td>Bleeding and hemorrhaging in severe cases</td>
+    <td>Leafy, green vegetables, soybeans, edamame, okra, nattoMexico</td>
+  </tr>
+</table>
+<hr>
+<center><h1 style="color:white;">Dietitian </h1></center>
+<center><img src="https://th.bing.com/th/id/OIP.fL_Lyf2FGY2R9-4W7xdGVwHaE8?pid=ImgDet&rs=1" width="25%"></center>
+<h3 style="color:white;">A registered dietitian studies food, nutrition, and dietetics. To become a registered dietitian, Dietitians work in private and public healthcare, education, corporate wellness, research, and the food industry.<br>
+
+A nutritionist learns about nutrition through self-study or formal education, but they do not meet the requirements to use the titles RD or RDN. Nutritionists often work in the food industry and in food science and technology.</h3>
+<hr>
+<style>
+.city {
+  background-color: green;
+  color: white;
+  border: 2px solid white;
+  margin: 20px;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="city">
+<h2>Vitamin D supplements?></h2>
+<p>A randomized controlled trial of vitamin D supplementation found no association between supplements and cardiovascular disease....</p>
+<b><a href="https://www.apolloedoc.co.in/fitness-supplements/best-vitamin-d-supplement/">Read more-.....</a></b>
+</div> 
+
+<div class="city">
+<h2 >What to know about calcium in bones?</h2>
+<p>Calcium is an important nutrition need for the body which helps to strength bone and maintain them.....</p>
+<b><a href="https://www.helpguide.org/articles/healthy-eating/calcium-and-bone-health.htm">Read more-.....</a></b>
+</div>
+
+<div class="city">
+<h2>What to know about millet.?</h2>
+<p>Millet helps cardiovascular and digestive health and may prevent the onset of diabetes and obesity. Read about other health.......</p>
+<b><a href="https://www.healthifyme.com/blog/millets-types-benefits-recipes-weight-loss/">Read more-.....</a></b>
+</div>
+
+<hr>
+{
+ background-color: white;
+color:black;
+boder: 2px solid white;
+margin: 20px;
+padding: 20px;
+}
+</style>
+<body>
+
+<center><h1 style="color : red ;";">Contact for problem like obesity,skin problem and vitamins deficiency </h1>
+</center>
+<center><b><form action="/action_page.php">
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label style="color:red;"> Do you have obesity</label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label style="color:red;"> skin problem</label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label style="color:red;">vitamins deficiency </label><br><br>
+  <input type="submit" value="Submit">
+</form></b></center><hr>
+<center>
+<h2 style="color:red;">Web site designed by</h2>
+<h3 style="color:red;">KRISHNA P (2021UAD1109) / (201AD155)</h3>
+<p style="color:red;"><b>bannariamman institute of technology<br>sathiyamagalam <br>Erode-621704</b></p><center>
+</div><hr>
+</body>
+</html>
